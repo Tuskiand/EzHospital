@@ -1,5 +1,3 @@
-根据项目代码和使用清单，我来帮你编写一个完整的 README.md 文件:
-
 # Hospital-Registration-Platform
 
 基于Spring Boot和微信小程序的医院预约挂号平台，包含三端应用: 
