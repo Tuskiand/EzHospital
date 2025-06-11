@@ -53,6 +53,7 @@
 
 ![](https://img.picui.cn/free/2025/06/11/684974aeb9a1c.png)
 
+https://img.picui.cn/free/2025/06/11/684974aeb9a1c.png
 - 医院信息管理
 
   ![](https://img.picui.cn/free/2025/06/11/684974aec2bbb.png)
