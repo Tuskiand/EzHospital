@@ -106,12 +106,11 @@ redis:
 
 # 七牛云文件存储
 qiniu:
-  accessKey: QP8b7jdkNS0L5pc_SJIFuaNRhCBvv7hA7rDVlOTI
-  secretKey: WKwd9RRNnVRVAyINGLxPoWd20UkJaIlChLdLRRzC
-  bucket: test056
+  accessKey: xxxx
+  secretKey: xxxx
+  bucket: xxxx
   # 访问域名前缀
-  url: http://sxo6llmbt.hd-bkt.clouddn.com/
-
+  url: 
 secure:
   ignored:
     urls: #安全路径白名单
