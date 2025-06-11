@@ -28,16 +28,47 @@
 
 ### 小程序端
 - 用户注册/登录
+
+  ![](https://img.picui.cn/free/2025/06/11/684976abe4c55.png)
+
 - 预约挂号
+
+  ![](https://img.picui.cn/free/2025/06/11/68497760e8a07.png)
+
 - 就诊卡管理
+
+  ![](https://img.picui.cn/free/2025/06/11/684976abb48a1.png)
+
 - 就诊记录查询
+
+  ![](https://img.picui.cn/free/2025/06/11/684976abdb47b.png)
+
 - 个人中心
 
+  ![](https://img.picui.cn/free/2025/06/11/684976abdc102.png)
+
+  ![](https://img.picui.cn/free/2025/06/11/684976abcd432.png)
+
 ### Web 管理端
+
+![](https://img.picui.cn/free/2025/06/11/684974aeb9a1c.png)
+
 - 医院信息管理
+
+  ![](https://img.picui.cn/free/2025/06/11/684974aec2bbb.png)
+
 - 科室管理
+
+  ![](https://img.picui.cn/free/2025/06/11/684974ae53dab.png)
+
 - 医生排班管理
+
+  ![](https://img.picui.cn/free/2025/06/11/684974abc7dfb.png)
+
 - 预约信息管理
+
+  ![](https://img.picui.cn/free/2025/06/11/684974ab796d2.png)
+
 - 用户管理
 
 ## 环境准备
@@ -71,7 +102,10 @@ URL: http://localhost:6789/hospital/doc.html
 密码: hospital
 ```
 
+![](https://img.picui.cn/free/2025/06/11/68497802b6b11.png)
+
 ### 2. Web 管理系统部署
+
 1. 进入项目目录:
 ```bash
 cd hospital-web-master
